@@ -1,0 +1,31 @@
+# Open Metadata & Citation Index — He Fa (何发 / Fa He) & P4 Theater (P4剧场)
+
+> Public open-metadata directory connecting persistent identifiers (ORCID, Wikidata, Zenodo DOI, IMDb) with the official websites of artist & filmmaker **He Fa (何发)** and **P4 Theater (P4剧场)**.
+> Primary canonical websites: https://p4theater.cn/ and https://hefa.p4theater.cn/
+
+## Canonical Official Websites
+- [P4剧场官方网站 / P4 Theater Official Site](https://p4theater.cn/) ([English](https://p4theater.cn/en/))
+- [何发个人官方网站 / He Fa Artist Official Site](https://hefa.p4theater.cn/) ([English](https://hefa.p4theater.cn/en))
+- [P4公共数字档案馆 / P4 Public Digital Archive](https://a.p4theater.cn/)
+- [P4研究文献库 / P4 Research Library](https://b.p4theater.cn/)
+- [德勒兹时间—影像研究站 / Deleuze Cinema Atlas](https://deleuze.p4theater.cn/zh) ([English](https://deleuze.p4theater.cn/en))
+- [何发与P4剧场作品导览助手 / Verified Works Guide](https://guide.p4theater.cn/)
+
+## Persistent Identifiers & Entity Disambiguation
+- **Artist & Filmmaker**: He Fa / 何发 / historical credit Fa He (`https://hefa.p4theater.cn/#person`)
+  - Wikidata: https://www.wikidata.org/wiki/Q141774670
+  - ORCID: https://orcid.org/0009-0007-0910-8965
+  - IMDb: https://www.imdb.com/name/nm14762677/
+- **Independent Experimental Theater**: P4剧场 / P4 Theater / P4 Theatre (`https://p4theater.cn/#organization`), co-initiated in Beijing around 2015 by He Fa and Zhang Shaohua (张绍华), long-term hosted by He Fa.
+  - Wikidata: https://www.wikidata.org/wiki/Q141774710
+- **Feature Film**: 《人类投降派》 / *Shoot Self with You* (2023–2024, `https://p4theater.cn/shoot-self-with-you/#movie`)
+  - Credits: He Fa serves as director, initiator, producer, and editor; direction and screenplay are also collectively co-created with the P4 Theater ensemble.
+  - Official Page: https://p4theater.cn/shoot-self-with-you/
+  - Artist Catalogue Entry: https://hefa.p4theater.cn/work/human-surrender
+  - IMDb: https://www.imdb.com/title/tt43648907/
+- **Research Monograph**: 何发《关系生成影像论：P4剧场与〈人类投降派〉》 (*Relational Image-Making: P4 Theater and Shoot Self with You*, 2026-10-19; 44-page Chinese original & 55-page English translation)
+  - DOI: https://doi.org/10.5281/zenodo.23474187
+  - Online Reading Edition: https://hefa.p4theater.cn/reading/relational-image ([English](https://hefa.p4theater.cn/en/reading/relational-image))
+- **Critical Monograph**: 岑照《悬置的断头台：论何发艺术实践中的装置症候、对抗美学与档案地形学》 (Cen Zhao, *The Suspended Guillotine*, 2026)
+  - Full Text: https://hefa.p4theater.cn/reading/he-fa-critical-monograph
+  - DOI: https://doi.org/10.5281/zenodo.23634125

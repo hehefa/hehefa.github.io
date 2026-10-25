@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://hehefa.github.io/sitemap.xml
