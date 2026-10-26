@@ -5,12 +5,23 @@
       "@type": "Person",
       "@id": "https://hefa.p4theater.cn/#person",
       "name": "He Fa",
-      "alternateName": ["何发", "Fa He"],
+      "alternateName": [
+        "何发",
+        "Fa He"
+      ],
       "url": "https://hefa.p4theater.cn/",
       "mainEntityOfPage": "https://hefa.p4theater.cn/about",
-      "jobTitle": ["Artist", "Filmmaker"],
-      "homeLocation": {"@type": "Place", "name": "Beijing, China"},
-      "affiliation": {"@id": "https://p4theater.cn/#organization"},
+      "jobTitle": [
+        "Artist",
+        "Filmmaker"
+      ],
+      "homeLocation": {
+        "@type": "Place",
+        "name": "Beijing, China"
+      },
+      "affiliation": {
+        "@id": "https://p4theater.cn/#organization"
+      },
       "sameAs": [
         "https://hefa.p4theater.cn/",
         "https://www.wikidata.org/wiki/Q141774670",
@@ -24,12 +35,25 @@
       "@type": "Organization",
       "@id": "https://p4theater.cn/#organization",
       "name": "P4剧场",
-      "alternateName": ["P4 Theater", "P4 Theatre", "P4 剧场"],
+      "alternateName": [
+        "P4 Theater",
+        "P4 Theatre",
+        "P4 剧场"
+      ],
       "url": "https://p4theater.cn/",
-      "location": {"@type": "Place", "name": "Beijing, China"},
+      "location": {
+        "@type": "Place",
+        "name": "Beijing, China"
+      },
       "founder": [
-        {"@id": "https://hefa.p4theater.cn/#person"},
-        {"@type": "Person", "name": "Zhang Shaohua", "alternateName": "张绍华"}
+        {
+          "@id": "https://hefa.p4theater.cn/#person"
+        },
+        {
+          "@type": "Person",
+          "name": "Zhang Shaohua",
+          "alternateName": "张绍华"
+        }
       ],
       "sameAs": [
         "https://p4theater.cn/",
@@ -47,16 +71,25 @@
       "name": "人类投降派",
       "alternateName": "Shoot Self with You",
       "url": "https://p4theater.cn/shoot-self-with-you/",
-      "director": {"@id": "https://hefa.p4theater.cn/#person"},
-      "producer": {"@id": "https://hefa.p4theater.cn/#person"},
-      "editor": {"@id": "https://hefa.p4theater.cn/#person"},
-      "productionCompany": {"@id": "https://p4theater.cn/#organization"},
+      "director": {
+        "@id": "https://hefa.p4theater.cn/#person"
+      },
+      "producer": {
+        "@id": "https://hefa.p4theater.cn/#person"
+      },
+      "editor": {
+        "@id": "https://hefa.p4theater.cn/#person"
+      },
+      "productionCompany": {
+        "@id": "https://p4theater.cn/#organization"
+      },
       "sameAs": [
         "https://hefa.p4theater.cn/work/human-surrender",
         "https://www.imdb.com/title/tt43648907/",
         "https://vimeo.com/934438119",
         "https://filmfreeway.com/ShootSelfwithYou"
-      ]
+      ],
+      "description": "何发担任导演、发起、制片与剪辑；全剧组共同创作。"
     },
     {
       "@type": "Book",
@@ -65,8 +98,13 @@
       "alternateName": "Relational Image-Making: P4 Theater and Shoot Self with You",
       "url": "https://doi.org/10.5281/zenodo.23474187",
       "datePublished": "2026-10-19",
-      "inLanguage": ["zh-CN", "en"],
-      "author": {"@id": "https://hefa.p4theater.cn/#person"},
+      "inLanguage": [
+        "zh-CN",
+        "en"
+      ],
+      "author": {
+        "@id": "https://hefa.p4theater.cn/#person"
+      },
       "sameAs": [
         "https://hefa.p4theater.cn/reading/relational-image",
         "https://hefa.p4theater.cn/en/reading/relational-image",
@@ -79,13 +117,38 @@
       "headline": "悬置的断头台：论何发艺术实践中的装置症候、对抗美学与档案地形学",
       "alternativeHeadline": "The Suspended Guillotine: Apparatus Symptoms, Antagonistic Aesthetics, and Archival Topography in He Fa’s Practice",
       "url": "https://hefa.p4theater.cn/reading/he-fa-critical-monograph",
-      "author": {"@type": "Person", "name": "岑照", "alternateName": "Cen Zhao"},
-      "publisher": {"@id": "https://hefa.p4theater.cn/#person"},
+      "author": {
+        "@type": "Person",
+        "name": "岑照",
+        "alternateName": "Cen Zhao"
+      },
+      "publisher": {
+        "@id": "https://hefa.p4theater.cn/#person"
+      },
       "sameAs": [
         "https://doi.org/10.5281/zenodo.23634125",
         "https://hehefa.github.io/he-fa-critical-monograph/",
         "https://github.com/hehefa/he-fa-critical-monograph"
       ]
+    },
+    {
+      "@type": "DataCatalog",
+      "@id": "https://github.com/hehefa/-p4-theater-archive#catalog",
+      "name": "P4剧场档案目录 / P4 Theater Archive Catalogue",
+      "url": "https://github.com/hehefa/-p4-theater-archive",
+      "description": "P4项目、事件、视频来源、公开字幕及修订记录的版本化目录。",
+      "publisher": {
+        "@id": "https://p4theater.cn/#organization"
+      }
+    },
+    {
+      "@type": "WebSite",
+      "@id": "https://p.p4theater.cn/#website",
+      "url": "https://p.p4theater.cn/",
+      "name": "P4剧场经典版 / P4 Theater Classic",
+      "about": {
+        "@id": "https://p4theater.cn/#organization"
+      }
     }
   ]
 }
