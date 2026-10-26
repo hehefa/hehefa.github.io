@@ -17,3 +17,8 @@
 [实体关系 entities.jsonld](entities.jsonld) · [纯文本索引 llms.txt](llms.txt)
 
 规范个人与机构入口分别为hefa.p4theater.cn和p4theater.cn。引用书稿、评论、字幕或图像时，沿对应文件保留作者、版本与来源；公开可访问不意味着所有材料采用统一开放许可。
+
+## 导览与档案方法
+
+- [作品导览助手源码](https://github.com/hehefa/openai-agents-starter-python)：公开资料问答、原文出处与定时同步。
+- [P4 Archive Toolkit](https://github.com/hehefa/p4-archive-toolkit)：本地导入、检索、版本与证据管理工具。
